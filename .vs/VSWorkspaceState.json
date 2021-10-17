@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\base",
+    "\\base\\api",
+    "\\base\\templates\\base",
+    "\\eduquest",
+    "\\static",
+    "\\static\\images",
+    "\\static\\js",
+    "\\static\\styles",
+    "\\templates"
+  ],
+  "SelectedNode": "\\base\\api\\views.py",
+  "PreviewInSolutionExplorer": false
+}
